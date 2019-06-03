@@ -20,6 +20,12 @@ THe user first has to input the length values of the triangle and after submitti
 Known Bugs
 There are no known bugs yet.
 
+## BDD
+* If the the number you have keyed in is less than or equal to 0 check your values
+* For an Equilateral triangle all sides are equal
+* For an isosceles triangle 2 sides are equal
+* For a scalene triangle all side are not equal
+
 Technologies Used
 HTML, CSS, JavaScript
 
