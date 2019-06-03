@@ -5,14 +5,12 @@ body{
     color:white;
 }
 
-#form{>
+#form{
    text-align:center;
   
 }
-.jumbotron{
+.jumbotron{>
     text-align:center;
-   
-    
 }
 h1{
     color: brown;
