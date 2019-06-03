@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Quicksand', sans-serif;
+    color:white;
+}
+
+#form{
+    background-color:silver;
+   text-align:center;
+   border:2px solid white;
+   margin-left: 2%;
+   height:60%;
+   width:70%;
+   padding:7%;
+   
+  
+}
+.jumbotron{
+    text-align:center;
+}
+h1{
+    color: brown;
+}
+.melisa{
+    margin: 10px;
+    
+  
+}
+.col-md-12 #form{
+   
+}
+h3{
+    color:brown;
+}
