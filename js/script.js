@@ -1,4 +1,4 @@
-function triangle() {
+function triangle() {>
 var a=parseInt(document.getElementById("a").value);
 var b=parseInt(document.getElementById("b").value);
 var c=parseInt(document.getElementById("c").value);
