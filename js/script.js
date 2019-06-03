@@ -13,7 +13,4 @@ if (a<=0 || b<=0 || c<=0){
 } else if (!(a+b<=c || b+c<=a || a+c<=b ) && !(a===b && b===c && c===a)) {
     alert("This is a scalene triangle!");
 } 
-else{
-    alert("Kindly check your values!")
-}
 }
