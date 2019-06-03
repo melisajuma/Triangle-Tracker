@@ -1,4 +1,4 @@
-Triangle Tracker >
+Triangle Tracker 
 This is an application that will help users determine whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all, depending on the measurement of the different sides of the "tringle" thst need to be keyed in, 30/5/2019
 By Melisa JUma
 Description
