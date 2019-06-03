@@ -1,5 +1,5 @@
 Triangle Tracker
-This is an application that will help users determine whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all, depending on the measurement of the different sides of the "tringle" thst need to be keyed in, 30/5/2019
+This is an application that will help users determine whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all, depending on the measurement of the different sides of the "tringle" thst need to be keyed in, 30/5/2019.
 By Melisa JUma
 Description
 The application allows a user to key in the values  of the lengths of  the three sides of whatever  triangle they wish to test in the application.

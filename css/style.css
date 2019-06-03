@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1111321/pexels-photo-1111321.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:white;
+   
+}
+
+#form{
+   text-align:center;
+  
+}
+.jumbotron{
+    text-align:center;
+   
+    
+}
+h1{
+    color: brown;
+}
+.melisa{
+    margin: 10px;
+    border-bottom-color: 
+}
+.col-md-12 #form{
+   
+}
