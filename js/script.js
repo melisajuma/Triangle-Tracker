@@ -1,7 +1,7 @@
 function triangle() {
 var a=parseInt(document.getElementById("a").value);
-var b=parseInt(document.getElementById("b").value);>
-var c=parseInt(document.getElementById("c").value);
+var b=parseInt(document.getElementById("b").value);
+var c=parseInt(document.getElementById("c").value);>
 if (a<=0 || b<=0 || c<=0){
     alert("Kindly check your values!");
 }else if (a===b && b===c && c===a) {
