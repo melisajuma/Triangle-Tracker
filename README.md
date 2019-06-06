@@ -15,7 +15,13 @@ In the case of a  scalene triangle, none of the sides is equal.
 A triangle cannot be formed, if the sum of any two sides of the triangle is equal to or less than the third remaining side.
 
 Setup/Installation Requirements
-THe user first has to input the length values of the triangle and after submitting them to the application, it will run and give an output of the type of triangle it is either an equilateral, isoscceles, scalene trangle or not a triangle at all.It is user friendly and pretty straight forward.
+Clone the project from portfolio by copying the displayed link
+In your local repository chnage the location to the cloned repo
+Use the ls command to list all the files present
+Change the terminal location to the index.html file
+If you are using visual studio type in code .
+Run and view the project
+
 
 Known Bugs
 There are no known bugs yet.
